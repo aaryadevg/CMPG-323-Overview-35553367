@@ -39,3 +39,13 @@ The development branch will contain new features still in development for the pr
 The bug fixes branch will have a collection of bug fixes, which will be merged into the feature branch and therefore eventually into the master branch, refer to the diagram below.
 
 <img src="branch_strat.png" alt="Branching strategy diagram">
+
+# Gitignore file
+
+A gitignore file, contains a list of files that should be ignored by git, which means that changes made to these files will not be tracked
+
+for the project the following files will be ignored
+
+- Visual Studio solution files
+- log files
+- cache files
