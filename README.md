@@ -36,6 +36,6 @@ The development branch will contain new features still in development for the pr
 
 ## Bug Fixes branch
 
-The bug fixes branch will have a collection of bug fixes, which will be merged into the master branch and the feature branch, refer to the diagram below.
+The bug fixes branch will have a collection of bug fixes, which will be merged into the feature branch and therefore eventually into the master branch, refer to the diagram below.
 
 <img src="branch_strat.png" alt="Branching strategy diagram">
