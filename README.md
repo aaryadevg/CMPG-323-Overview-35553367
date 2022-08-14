@@ -18,7 +18,11 @@ The links to all the project repositories can be found below, please note that t
 - Project 4
 - Project 5
 
+This project will act as a central repository for all projects, this repository will also link to the Github project for the semester which will all project repositories to link to the Github project board, as illustrated in the diagram below
+
 # Diagrams
+
+<img src="Project_Overview.png" alt="Project overview illustration">
 
 # Branching Strategies
 
@@ -49,3 +53,9 @@ for the project the following files will be ignored
 - Visual Studio solution files
 - log files
 - cache files
+- Credentials for any APIs used and connection strings for databases
+- appsettings.json
+
+# Storage of credentials
+
+Credentials and other sensitive information will **NOT** be stored in this repository ASP.net Core makes use of a JSON (JavaScript Object Notation) file which contains configuration information and connection strings all credentials will be stored in this file, the file will not be stored on GitHub (Because of the Gitignore).
