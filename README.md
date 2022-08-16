@@ -59,3 +59,23 @@ for the project the following files will be ignored
 # Storage of credentials
 
 Credentials and other sensitive information will **NOT** be stored in this repository ASP.net Core makes use of a JSON (JavaScript Object Notation) file which contains configuration information and connection strings all credentials will be stored in this file, the file will not be stored on GitHub (Because of the Gitignore).
+
+# The Burn down chart
+
+The burn down chart shows an the estimated number of hours per project compared to the actual time take to complete the project. Please note that the actual number of hours cannot be tracked as of the time of writing
+thus these values are made up
+
+<img src="BurndownChart.png" alt="Burndown chart">
+
+The estimated number of hours per project is determined by considering the time allocated by the semester schedule and the estimated time for the required badges and time spent in class using the following formula:
+
+```
+effort = AllocatedTime - (BadgesCompletionTime + ClassTime)
+```
+
+The script used to calculate the estimated time per project is saved in the "Utils" directory
+
+## Extra Note
+
+I decided to make use of a per project basis for the burn down chart, because it would be easier to calculate
+the estimated number of hours spent per project than estimated number of hours per sprint, and the effort put into each project is the end goal in my opinion
