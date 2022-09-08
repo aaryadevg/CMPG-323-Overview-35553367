@@ -13,7 +13,7 @@ CMPG-323-{Project_name}-35553367
 The links to all the project repositories can be found below, please note that these links will be updated as new projects are created
 
 - [Project 1](https://github.com/aaryadevg/CMPG-323-Overview-35553367)
-- Project 2
+- [Project 2](https://github.com/aaryadevg/CMPG-323-Project-2-35553367) **Private**
 - Project 3
 - Project 4
 - Project 5
