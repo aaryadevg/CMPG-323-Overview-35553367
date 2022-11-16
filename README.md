@@ -15,8 +15,8 @@ The links to all the project repositories can be found below, please note that t
 - [Project 1](https://github.com/aaryadevg/CMPG-323-Overview-35553367)
 - [Project 2](https://github.com/aaryadevg/CMPG-323-Project-2-35553367) **Private** Check out [API](https://35553367-connectedoffice.azurewebsites.net/swagger/index.html)
 - [Project 3](https://github.com/aaryadevg/CMPG-323-Project-3-35553367) and [website](https://35553367devicemanagementwebapp.azurewebsites.net/)
-- Project 4
-- Project 5
+- [Project 4](https://github.com/aaryadevg/CMPG-323-Project-4-35553367)
+- [Project 5](https://github.com/aaryadevg/CMPG323-Project-5-35553367)
 
 This project will act as a central repository for all projects, this repository will also link to the Github project for the semester which will all project repositories to link to the Github project board, as illustrated in the diagram below
 
