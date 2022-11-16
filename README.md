@@ -13,7 +13,7 @@ CMPG-323-{Project_name}-35553367
 The links to all the project repositories can be found below, please note that these links will be updated as new projects are created
 
 - [Project 1](https://github.com/aaryadevg/CMPG-323-Overview-35553367)
-- [Project 2](https://github.com/aaryadevg/CMPG-323-Project-2-35553367) **Private** Check out [API](https://35553367-connectedoffice.azurewebsites.net/swagger/index.html)
+- [Project 2](https://github.com/aaryadevg/CMPG-323-Project-2-35553367) **Private** Check out [API](https://35553367-connectedoffice.azurewebsites.net/swagger/index.html) ***Deprecated URL: Project removed due to insufficient Azure credits**
 - [Project 3](https://github.com/aaryadevg/CMPG-323-Project-3-35553367) and [website](https://35553367devicemanagementwebapp.azurewebsites.net/)
 - [Project 4](https://github.com/aaryadevg/CMPG-323-Project-4-35553367)
 - [Project 5](https://github.com/aaryadevg/CMPG323-Project-5-35553367)
